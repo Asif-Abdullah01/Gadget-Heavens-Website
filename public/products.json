@@ -1,0 +1,256 @@
+[
+    {
+        "id": 1,
+        "product_title": "Apple iPhone 14 Pro Max",
+        "product_image": "https://i.ibb.co.com/58CRdsR/iphon-14-pro-max.jpg",
+        "category": "Phones",
+        "price": 1099,
+        "description": "Experience the ultimate smartphone with the iPhone 14 Pro Max.",
+        "specification": [
+            "6.7-inch Super Retina XDR display",
+            "A16 Bionic chip",
+            "48MP Main camera",
+            "Dynamic Island"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "brand": "Apple"
+    },
+    {
+        "id": 2,
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://i.ibb.co.com/pnJgrmq/Galaxy-S23-Ultra-Green-3380.jpg",
+        "category": "Phones",
+        "price": 999,
+        "description": "The most powerful Galaxy S series ever.",
+        "specification": [
+            "6.8-inch Dynamic AMOLED 2X display",
+            "Qualcomm Snapdragon 8 Gen 2",
+            "200MP Main camera",
+            "S Pen support"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "brand": "Samsung"
+    },
+    {
+        "id": 3,
+        "product_title": "MacBook Pro 14",
+        "product_image": "https://i.ibb.co.com/r3pDMHL/3710-10824.jpg",
+        "category": "Computers",
+        "price": 1299,
+        "description": "The ultimate pro notebook.",
+        "specification": [
+            "14-inch Liquid Retina XDR display",
+            "M2 Pro chip",
+            "16-core GPU",
+            "Up to 32GB unified memory"
+        ],
+        "availability": false,
+        "rating": 4.9,
+        "brand": "Apple"
+    },
+    {
+        "id": 4,
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/ypNwfPC/download.jpg",
+        "category": "Computers",
+        "price": 999,
+        "description": "The world's most beautiful laptop.",
+        "specification": [
+            "13.4-inch InfinityEdge display",
+            "Intel Core i7-13700H",
+            "Iris Xe Graphics",
+            "16GB LPDDR5 RAM"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "brand": "Dell"
+    },
+    {
+        "id": 5,
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://i.ibb.co.com/X3Xcsw4/Apple-Watch-Series-8-Red-GPS-Cellular-2679.jpg",
+        "category": "Smart Watches",
+        "price": 399,
+        "description": "The ultimate smartwatch.",
+        "specification": [
+            "Always-On Retina display",
+            "S8 SiP",
+            "Crash Detection",
+            "Temperature sensor"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "brand": "Apple"
+    },
+    {
+        "id": 6,
+        "product_title": "Samsung Galaxy Watch 5",
+        "product_image": "https://i.ibb.co.com/jfrWLB1/Samsung-Galaxy-Watch-5.jpg",
+        "category": "Smart Watches",
+        "price": 279,
+        "description": "The next generation of smartwatches.",
+        "specification": [
+            "Super AMOLED display",
+            "Exynos W920 processor",
+            "BioActive Sensor",
+            "Sapphire Crystal glass"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "brand": "Samsung"
+    },
+    {
+        "id": 7,
+        "product_title": "Anker PowerCore 20000 PD",
+        "product_image": "https://i.ibb.co.com/Hq8BhhD/2127-83395.jpg",
+        "category": "Power Banks",
+        "price": 55.45,
+        "description": "High-capacity power bank with PD fast charging.",
+        "specification": [
+            "20000mAh capacity",
+            "Power Delivery 3.0",
+            "PowerIQ 3.0",
+            "Multiple charging ports"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "brand": "Anker"
+    },
+    {
+        "id": 8,
+        "product_title": "RAVPower RP-PB168",
+        "product_image": "https://i.ibb.co.com/1RQ32kH/download-1.jpg",
+        "category": "Power Banks",
+        "price": 58.99,
+        "description": "Compact power bank with high-speed charging.",
+        "specification": [
+            "10000mAh capacity",
+            "Quick Charge 3.0",
+            "Power Delivery 3.0",
+            "LED power indicator"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "brand": "RAVPower"
+    },
+    {
+        "id": 9,
+        "product_title": "Apple MagSafe Charger",
+        "product_image": "https://i.ibb.co.com/FDQpGjX/download-2.jpg",
+        "category": "Chargers",
+        "price": 57,
+        "description": "Magnetic wireless charger for iPhone.",
+        "specification": [
+            "7.5W charging speed",
+            "Magnetic alignment",
+            "Compact design"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "brand": "Apple"
+    },
+    {
+        "id": 10,
+        "product_title": "Anker Nano II 45W Charger",
+        "product_image": "https://i.ibb.co.com/d5HF37M/Anker-Nano-II-45-W-UK-Black-7177.jpg",
+        "category": "Chargers",
+        "price": 77.99,
+        "description": "Compact GaN charger with high-speed charging.",
+        "specification": [
+            "45W power output",
+            "Power Delivery 3.0",
+            "PowerIQ 3.0",
+            "Foldable plug"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "brand": "Anker"
+    },
+    {
+        "id": 11,
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://i.ibb.co.com/CKnGDXQ/download-3.jpg",
+        "category": "Gadgets",
+        "price": 399,
+        "description": "Industry-leading noise cancellation.",
+        "specification": [
+            "High-Resolution Audio Wireless",
+            "HD Noise Cancelling Processor QN1",
+            "Custom Driver Unit",
+            "Up to 30 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "brand": "Sony"
+    },
+    {
+        "id": 12,
+        "product_title": "Bose QuietComfort 45",
+        "product_image": "https://i.ibb.co.com/8g5ChbP/images-1.jpg",
+        "category": "Gadgets",
+        "price": 329,
+        "description": "Quiet comfort, redefined.",
+        "specification": [
+            "QuietComfort Acoustic Noise Cancelling",
+            "TriPort Acoustic Headphone Structure",
+            "Up to 24 hours battery life",
+            "Aware Mode"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "brand": "Bose"
+    },
+    {
+        "id": 13,
+        "product_title": "Samsung Galaxy Tab S8 Ultra",
+        "product_image": "https://i.ibb.co.com/GC2L837/5034-23715.jpg",
+        "category": "Computers",
+        "price": 1099,
+        "description": "The ultimate tablet for productivity and entertainment.",
+        "specification": [
+            "Super AMOLED display",
+            "Snapdragon 8 Gen 1",
+            "13MP Main camera",
+            "S Pen support"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "brand": "Samsung"
+    },
+    {
+        "id": 14,
+        "product_title": "Nintendo Switch OLED",
+        "product_image": "https://i.ibb.co.com/nBjPKPj/Nintendo-Switch-OLED-Gaming-Console-Neon-Red-and-Neon-Blue-Joy-Con-from-Zamve-Online-Console-Game-Sh.jpg",
+        "category": "Gadgets",
+        "price": 349,
+        "description": "The ultimate portable gaming system.",
+        "specification": [
+            "7-inch OLED screen",
+            "NVIDIA Custom Tegra processor",
+            "Joy-Con controllers",
+            "Docked and handheld play"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "brand": "Nintendo"
+    },
+    {
+        "id": 15,
+        "product_title": "Microsoft Xbox Series X",
+        "product_image": "https://i.ibb.co.com/BPr7Ykp/Xbox-Series-X-Console-b-4113.jpg",
+        "category": "Gadgets",
+        "price": 499,
+        "description": "The most powerful gaming console.",
+        "specification": [
+            "Custom AMD Zen 2 CPU",
+            "Custom AMD RDNA 2 GPU",
+            "4K UHD Blu-ray drive",
+            "Quick Resume"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "brand": "Microsoft"
+    }
+]
